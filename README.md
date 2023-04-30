@@ -56,7 +56,8 @@ There are at least four ways you can use SigMF today, thanks to the community-su
 1. Within **Python**, using the [official SigMF Python package **sigmf**](https://github.com/sigmf/sigmf-python) available from pip: `pip install sigmf`
 2. Within **C++** using the [header-only C++ library **libsigmf**](https://github.com/deepsig/libsigmf) maintained by DeepSig
 3. Within **GNU Radio** using the [out-of-tree module **gr-sigmf**](https://github.com/skysafe/gr-sigmf) maintained by SkySafe
-4. Manually, using our examples and the [spec itself](sigmf-spec.md), even if it's simply editing a text file
+4. Within **Pothos** using the [Pothos toolkit **PothosSigMF**](https://github.com/pothosware/PothosSigMF) maintained by Pothosware
+5. Manually, using our examples and the [spec itself](sigmf-spec.md), even if it's simply editing a text file
 
 
 ## Contributing
